@@ -27,4 +27,5 @@ begin
     writeln('O maior numero digitado foi ', maior);
     writeln('O menor numero digitado foi ', menor);
     readkey;
+
 end.
